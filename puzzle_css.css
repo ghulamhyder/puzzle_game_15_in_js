@@ -1,0 +1,17 @@
+body {
+	 background: #FFFFFF;
+ }
+ .myfield {
+ 			
+ 		border:1px solid black;		
+ 			background:red;
+ 			position:relative;
+ 			margin:0 px auto;
+ 			}
+ 	.mytile{
+ 		background:yellow;
+ 		text-align:center;	
+ 		color:green;
+ 		position:absolute;
+ 		font-weight:bold;
+ 	}		
